@@ -177,7 +177,7 @@ for epoch in range(n_epoch):
 
 
 import matplotlib.pyplot as plt
-plt.plot(range(1000),sum_error,'r--')
+plt.plot(range(1500),sum_error,'r--')
         
         
 
